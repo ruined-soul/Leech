@@ -1,1 +1,1 @@
-web: bash surf-tg.sh
+web: bash start.sh
